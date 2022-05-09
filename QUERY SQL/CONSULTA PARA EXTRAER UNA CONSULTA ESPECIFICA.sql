@@ -1,0 +1,1 @@
+SELECT IM FROM fiberlocate;

@@ -1,0 +1,1 @@
+SELECT last_update, left (last_update,4) as 'tresdigitos' FROM actor;

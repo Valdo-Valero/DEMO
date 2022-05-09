@@ -1,0 +1,1 @@
+SELECT*FROM actor WHERE actor_id LIKE '1%'

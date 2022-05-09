@@ -1,0 +1,1 @@
+SELECT*FROM actor WHERE first_name = "DAN" AND last_update LIKE "%2006-02-15 04:34:33%"

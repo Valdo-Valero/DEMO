@@ -1,0 +1,1 @@
+select first_name, actor_id as identificador from actor where first_name like "%ED%" 

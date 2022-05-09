@@ -1,0 +1,1 @@
+rename user 'root'@'localhost' TO 'admin'@'localhost'

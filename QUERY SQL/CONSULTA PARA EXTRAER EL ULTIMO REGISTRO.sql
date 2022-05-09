@@ -1,0 +1,3 @@
+SELECT*FROM fiberlocate 
+ORDER BY FOLIO DESC 
+LIMIT 1

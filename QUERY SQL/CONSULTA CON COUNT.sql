@@ -1,0 +1,1 @@
+select count(city) as ciudades from city
